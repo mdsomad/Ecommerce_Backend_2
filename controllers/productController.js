@@ -1,0 +1,5 @@
+
+
+exports.getAllProducts = (req,resp)=>{
+
+}
